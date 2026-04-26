@@ -1,0 +1,35 @@
+# Build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Binaries / libraries / objects
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.dylib
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDEs / editors
+.vscode/
+.idea/
+*.code-workspace
+
+# OS / file system
+Thumbs.db
